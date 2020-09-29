@@ -12,7 +12,7 @@ Image Denoising Techniques Using Autoencoder using Keras implemented on Fashion 
 
 * The structure of denoising autoencoder is shown below:
 
-![Image]()
+![Image](https://github.com/sayan0506/Image-Denoising-Using-Autoencoder/blob/master/Images/keras_denoising_autoencoder_header.png)
 
 The details implementation is done using Keras as tensorflow backend, can be found in the [Collab Notebook](https://github.com/sayan0506/Image-Denoising-Using-Autoencoder/blob/master/Autoencoder_for_image_denoising.ipynb).
 
@@ -20,4 +20,9 @@ The details implementation is done using Keras as tensorflow backend, can be fou
 
 * IIT Kharagpur Deep Learning Lectures
 * https://www.pyimagesearch.com/2020/02/24/denoising-autoencoders-with-keras-tensorflow-and-deep-learning/
+
+
+**All the contents are made public, and all modifications, pull requests are welcome but please open issue and discuss before executing any major change in the repository.**
+
+
 
