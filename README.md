@@ -18,6 +18,6 @@ The details implementation is done using Keras as tensorflow backend, can be fou
 
 **References:**
 
-* IIT Kharagpur Deep Laerning Lectures
-*
+* IIT Kharagpur Deep Learning Lectures
+* https://www.pyimagesearch.com/2020/02/24/denoising-autoencoders-with-keras-tensorflow-and-deep-learning/
 
